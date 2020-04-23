@@ -39,15 +39,15 @@ if sys.argv[-1] == 'readme':
 
 
 setup(
-    name='cookiecutter',
+    name='cookiecutter-cc',
     version=version,
     description=('A command-line utility that creates projects from project '
                  'templates, e.g. creating a Python package project from a '
                  'Python package project template.'),
     long_description=readme,
     long_description_content_type='text/markdown',
-    author='Audrey Roy',
-    author_email='audreyr@gmail.com',
+    author='Bernardas Ališauskas',
+    author_email='bernardas.alisauskas@pm.me',
     url='https://github.com/cookiecutter/cookiecutter',
     packages=[
         'cookiecutter',
