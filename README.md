@@ -3,7 +3,7 @@
 This fork of [cookiecutter] that includes add `cc` alias for `cookiecutter` keyword used in templating. 
 Instead of typing `cookiecutter.your_var` type `cc.your_var` which is much easier.
 
-[cookiecutter](https://github.com/cookiecutter/cookiecutter)
+[cookiecutter]: https://github.com/cookiecutter/cookiecutter
 
 ---
 
